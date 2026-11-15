@@ -1,4 +1,4 @@
----
+--
 description: How to install KernelSU on Android GKI devices. Check device support, back up the stock boot image, and install in LKM mode or GKI mode.
 ---
 
